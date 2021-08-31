@@ -4,10 +4,10 @@
 
 - I’m currently learning everythang though, don't be fooled by my enthusiasm. 
 
-- I’m looking to collaborate on R, Python, SQL projects that focus on health-related issues to learn and have solid experience.
-  That said, I'm also down to help in cool/interesting projects.  
+- I’m looking to collaborate using R, Python, and SQL projects that focus on health-related issues to learn and have solid experience.
+  That said, I'm also down to help in cool/interesting projects outside my field.  
 
-- 📫 How to reach me at antonio.faneite05@gmail.com holla at your boy and start your email with a "hi" in another language!!
+- 📫 Reach me at antonio.faneite05@gmail.com holla at your boy and start your email with a "hi" in different language!!
 
 <!---
 antoniofaneite/antoniofaneite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
