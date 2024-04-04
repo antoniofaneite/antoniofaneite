@@ -1,13 +1,14 @@
-- Hola hola world! Just another generic README.md file. You know how it goes. 
+Hi there! 👋 I'm Antonio, a data enthusiast with a background in health sciences and a passion for health data science. I have a knack for turning complex data into meaningful insights and solutions.
 
-- I have a background in health sciences and recently transitioned to data science...so I'm interested in...wait for it..HEALTH DATA SCIENCE!!
+🚀 Experience & Expertise:
 
-- I’m currently learning everythang though, don't be fooled by my enthusiasm. 
+Programming Languages: SAS, SQL, Python, R
+Tools & Packages: GitLab, GitHub, Hadoop, Unix/Linux, API, Jupyter, Oracle, PostgreSQL, RStudio
+Spoken Languages: English (fluent), Spanish (fluent)
+Certificates: Data Management and Integration, Advance Programming, Visual Analytics Specialist
 
-- I’m looking to collaborate using R, Python, and SQL projects that focus on health-related issues to learn and have solid experience.
-  That said, I'm also down to help in cool/interesting projects outside my field.  
 
-- 📫 Reach me at antonio.faneite05@gmail.com holla at your boy and start your email with a "hi" in different language!!
+I'm always eager to collaborate on projects that focus on health-related issues and to contribute to cool/interesting projects outside my field. Let's connect and explore how we can work together! 🤝
 
 <!---
 antoniofaneite/antoniofaneite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
