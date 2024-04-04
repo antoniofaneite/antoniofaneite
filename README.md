@@ -3,8 +3,11 @@ Hi there! 👋 I'm Antonio, a data enthusiast with a background in health scienc
 🚀 Experience & Expertise:
 
 Programming Languages: SAS, SQL, Python, R
+
 Tools & Packages: GitLab, GitHub, Hadoop, Unix/Linux, API, Jupyter, Oracle, PostgreSQL, RStudio
+
 Spoken Languages: English (fluent), Spanish (fluent)
+
 Certificates: Data Management and Integration, Advance Programming, Visual Analytics Specialist
 
 
